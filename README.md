@@ -12,7 +12,7 @@ pip install mysql-connector-python
 pip install streamlit
 ``````
 
-##APPROACH
+## APPROACH
 1. Data extraction: Clone the Github to fetch the data from the Phonepe pulse Github
 repository and store it in CSV format.
 2. Data transformation:transforming the data into a format suitable for analysis and visualization.
